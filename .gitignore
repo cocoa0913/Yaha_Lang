@@ -1,0 +1,29 @@
+# === Visual Studio 임시 파일 및 빌드 결과물 ===
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+*.ilk
+*.log
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.recipe
+
+# === Visual Studio 프로젝트 유저 설정 ===
+*.user
+*.suo
+*.db
+*.opendb
+
+# === 야하랭 엔진이 자동 생성하는 임시 파일들 ===
+ura world.yaha
+sample.yaha
+zero_check.yaha
+
+# === 기타 OS 쓰레기 파일 ===
+.DS_Store
+Thumbs.db
